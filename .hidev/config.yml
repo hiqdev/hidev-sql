@@ -1,0 +1,16 @@
+package:
+    name:           hidev-config-sql
+    namespace:      hiqdev\hidev\config\sql
+    label:          HiDevConfigSQL
+    title:          Hidev config for SQL projects
+    type:           yii2-extension
+    keywords:       hidev, config, SQL
+    year:           2015
+    description:    |
+        All you need for SQL projects:
+        - standart: LICENSE, README.md, CHANGELOG.md
+        - templates for SQL generation
+
+require:
+    hiqdev/hidev-config:        "*@dev"
+    hiqdev/hidev-config-php:    "*@dev"
