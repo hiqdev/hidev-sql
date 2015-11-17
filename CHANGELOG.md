@@ -1,5 +1,5 @@
-hiqdev/hidev-config-sql changelog
----------------------------------
+hiqdev/hidev-sql changelog
+--------------------------
 
 ## 0.0.1 Under development
 

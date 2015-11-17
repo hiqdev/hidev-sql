@@ -1,5 +1,5 @@
-hiqdev/hidev-config-sql commits history
----------------------------------------
+hiqdev/hidev-sql commits history
+--------------------------------
 
 ## 0.0.1 Under development
 
