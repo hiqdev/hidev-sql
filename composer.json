@@ -44,8 +44,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "hidev\\sql\\": "src",
-            "hiqdev\\hidev\\config\\sql\\": "src"
+            "hidev\\sql\\": "src"
         }
     }
 }
