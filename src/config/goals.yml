@@ -1,0 +1,12 @@
+package:
+    language: sql
+
+default:
+    before:
+        - LICENSE
+        - README.md
+        - .gitignore
+
+readme:
+    badges:
+        github.version:

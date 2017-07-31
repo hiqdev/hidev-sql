@@ -11,9 +11,9 @@
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
-        "source": "https://github.com/hiqdev/hidev-config",
-        "issues": "https://github.com/hiqdev/hidev-config/issues",
-        "wiki": "https://github.com/hiqdev/hidev-config/wiki",
+        "source": "https://github.com/hiqdev/hidev-sql",
+        "issues": "https://github.com/hiqdev/hidev-sql/issues",
+        "wiki": "https://github.com/hiqdev/hidev-sql/wiki",
         "forum": "https://forum.hiqdev.com/"
     },
     "authors": [
@@ -63,5 +63,16 @@
         "psr-4": {
             "hidev\\sql\\": "src"
         }
-    }
+    },
+    "extra": {
+        "config-plugin": {
+            "hidev": "src/config/hidev.php"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
