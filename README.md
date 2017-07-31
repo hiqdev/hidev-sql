@@ -1,4 +1,6 @@
-# HiDev config for SQL projects
+# HiDev SQL
+
+**HiDev config for SQL projects**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-sql/v/stable)](https://packagist.org/packages/hiqdev/hidev-sql)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-sql/downloads)](https://packagist.org/packages/hiqdev/hidev-sql)
@@ -7,10 +9,12 @@
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/hidev-sql.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-sql/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:hidev-sql/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:hidev-sql/dev-master)
 
-[HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
+[HiDev](https://github.com/hiqdev/hidev) is the automation tool mixed with code generator for easier continuos development.
+
 This plugin enables HiDev for SQL projects.
 
 Provides:
+
 - standart: LICENSE, README.md, CHANGELOG.md
 - to be done: syntax autoformatting with ???
 - to be done: templates for SQL generation

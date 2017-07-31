@@ -1,20 +1,16 @@
 package:
-    name:           hidev-sql
-    namespace:      hidev\sql
-    label:          HiDev SQL
-    title:          HiDev config for SQL projects
     type:           yii2-extension
-    keywords:       hidev, config, SQL
-    year:           2015
+    name:           hidev-sql
+    title:          HiDev config for SQL projects
+    headline:       HiDev SQL
+    keywords:       hidev, plugin, SQL
     description:    |
-        [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
+        [HiDev](https://github.com/hiqdev/hidev) is the automation tool mixed with code generator for easier continuos development.
+
         This plugin enables HiDev for SQL projects.
 
         Provides:
+
         - standart: LICENSE, README.md, CHANGELOG.md
         - to be done: syntax autoformatting with ???
         - to be done: templates for SQL generation
-
-require:
-    hiqdev/hidev-hiqdev: "*@dev"
-    hiqdev/hidev-php:    "*@dev"

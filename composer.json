@@ -4,7 +4,7 @@
     "description": "HiDev config for SQL projects",
     "keywords": [
         "hidev",
-        "config",
+        "plugin",
         "SQL"
     ],
     "homepage": "https://github.com/hiqdev/hidev-sql",
